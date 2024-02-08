@@ -146,3 +146,40 @@ img.thumbnail {
     margin-top: 32px;
     margin-bottom: 12px;
 }
+
+.blog-header {
+    display:flex;
+    margin-top: 36px;
+    margin-left: 25%;
+    justify-content: space-between;
+    margin-right: 25%
+}
+
+.blog-title {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    font-size: 14px;
+    color: #8977c9;
+    font-weight: bold;
+}
+
+.blog-date {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    color: #8977c9;
+    font-weight: bold;
+}
+
+.blog-content {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:justify;
+}
+
+.blog-line {
+    display: flex; 
+    background-color:transparent;
+    padding:8px;
+    border-bottom: #ecefff solid 2px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
