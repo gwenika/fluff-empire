@@ -40,7 +40,8 @@ menu li a {
 
 menu li a:hover {
     background-image: url(./images/bouton2.png);
-    font-weight: bold;
+    font-size: 15px;
+    font-weight:bold;
 }
 
 .index-button {
@@ -158,7 +159,6 @@ img.thumbnail {
 .blog-title {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align: left;
-    font-size: 14px;
     color: #8977c9;
     font-weight: bold;
 }
